@@ -11,3 +11,5 @@ Video:
 Snapshot:
 
 ![Snapshot](https://github.com/Neeeeek/places-nearby/blob/master/snapshots/screen2.PNG)
+
+Server: https://github.com/Neeeeek/places-nearby-server
