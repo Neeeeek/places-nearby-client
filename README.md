@@ -2,7 +2,7 @@
 
 Places nearby client React, HTML, CSS, JWT
 
-Simple app which allows You to find places in the neighbourhood of your choice. Logged user is allowed to create, modify and store his favourite list of places.
+Application which allows You to find places in the neighbourhood of your choice. Logged user is allowed to create, modify and store his favourite list of places.
 
 Video:
 
